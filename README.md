@@ -26,7 +26,7 @@
 - [Omni Calculator](https://www.omnicalculator.com/) - Extensive collection of calculators covering science, finance, health, and everyday calculations.
 - [Wolfram Alpha](https://www.wolframalpha.com/) - Computational knowledge engine for mathematics, science, and many other subjects.
 - [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
-
+- [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
 ## Date & Time
 
 - [DateCalx - Date Difference](https://datecalx.com/date-difference) - Calculate the difference between two dates in days, weeks, months, and years.
