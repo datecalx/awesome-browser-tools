@@ -26,6 +26,9 @@
 - [Omni Calculator](https://www.omnicalculator.com/) - Extensive collection of calculators covering science, finance, health, and everyday calculations.
 - [Wolfram Alpha](https://www.wolframalpha.com/) - Computational knowledge engine for mathematics, science, and many other subjects.
 - [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
+- [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator for appliances and devices.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
 
 ## Date & Time
 
@@ -59,6 +62,8 @@
 - [Random.org](https://www.random.org/) - Random number and randomization tools.
 - [QR Code Generator](https://www.qr-code-generator.com/) - Create QR codes for URLs, text, and other information.
 - [1Password Password Generator](https://1password.com/password-generator/) - Generate secure random passwords.
+- [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview and CSS token export.
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Free tool that converts images into crochet patterns.
 
 ## Finance Tools
 
@@ -89,6 +94,8 @@
 - [Notion](https://www.notion.so/) - Workspace for notes, documents, databases, and project organization.
 - [Trello](https://trello.com/) - Visual task and project management boards.
 - [Google Keep](https://keep.google.com/) - Simple browser-based notes and lists.
+- [SkyCOTL Tools](https://skycotl.tools) - Free guides and calculators for Sky: Children of the Light.
+- [Pressure Washer Fix](https://pressurewasherfix.com) - Free troubleshooting guides for common pressure washer problems.
 
 ---
 
