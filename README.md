@@ -51,6 +51,7 @@
 - [DevTools](https://devtools.tech/) - Collection of useful browser-based developer utilities.
 - [Regex101](https://regex101.com/) - Test and debug regular expressions with detailed explanations.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Browser-based data analysis, encoding, decoding, and transformation toolkit.
+- [JSONPath Tester](https://alltoolsverse.com/tools/json-path-tester/) - Test JSONPath expressions against JSON and view every matching value in the browser.
 
 ## Text Tools
 
