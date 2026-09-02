@@ -30,6 +30,7 @@
 - [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
 - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
 - [WorkroomCalc](https://workroomcalc.co.uk) - Free Roman blind calculator for fabric, lining, rods, rings, and cord estimates.
+- [Naratake Food Cost Calculator](https://naratake.com/en/tools/food-cost-calculator) - Free per-portion food cost and menu pricing calculator with target profit margin.
 
 ## Date & Time
 
