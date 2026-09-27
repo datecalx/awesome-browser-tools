@@ -58,6 +58,7 @@
 
 - [WordCounter](https://wordcounter.net/) - Count words, characters, sentences, and paragraphs.
 - [Character Counter](https://charactercounter.com/) - Count characters, words, sentences, and lines.
+- [Duplicate Word Finder](https://textbases.app/text-tools/duplicate-word-finder/) - Find repeated words in text to help with proofreading and revision.
 - [Diffchecker](https://www.diffchecker.com/) - Compare text and identify differences between documents.
 
 ## Generators
