@@ -54,6 +54,7 @@
 - [Regex101](https://regex101.com/) - Test and debug regular expressions with detailed explanations.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Browser-based data analysis, encoding, decoding, and transformation toolkit.
 - [JSONPath Tester](https://alltoolsverse.com/tools/json-path-tester/) - Test JSONPath expressions against JSON and view every matching value in the browser.
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free MIT browser freelance tools: invoice, quote, timesheet, intake, late-fee, kickoff email (no signup).
 
 ## Text Tools
 
