@@ -88,6 +88,7 @@
 ## Image Tools
 
 - [FileOnTap](https://fileontap.com/) - Free browser-based image and PDF converter; processing stays on the device, with no upload or account required.
+- [Image to ASCII](https://imagetoascii.art/) - Convert images into ASCII character art locally in your browser and export TXT, PNG or SVG; free, with no signup.
 - [Nutilz SVG to PNG Converter](https://nutilz.com/svg-to-png) - Convert SVG files to PNG online free, with custom width, background, and scale. No upload, runs entirely in your browser.
 - [FileOnTap HEIC to PNG Converter](https://fileontap.com/heic-to-png/) - Convert HEIC images to PNG for free with no signup or upload; files are processed locally in your browser.
 - [TinyPNG](https://tinypng.com/) - Compress PNG and JPEG images online.
