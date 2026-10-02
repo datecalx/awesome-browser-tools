@@ -19,6 +19,7 @@
 - [Productivity Tools](#productivity-tools)
 
 ---
+- [CanYouCalculate](https://canyoucalculate.com) - 50+ free calculators & converters across 14 categories: finance, health, math, units, construction & more. No signup required.
 
 ## Calculators
 
