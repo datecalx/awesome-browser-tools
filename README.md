@@ -31,6 +31,7 @@
 - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
 - [WorkroomCalc](https://workroomcalc.co.uk) - Free Roman blind calculator for fabric, lining, rods, rings, and cord estimates.
 - [Naratake Food Cost Calculator](https://naratake.com/en/tools/food-cost-calculator) - Free per-portion food cost and menu pricing calculator with target profit margin.
+- [CanYouCalculate](https://canyoucalculate.com) - 50+ free calculators & converters across 14 categories: finance, health, math, units, construction & more. No signup required.
 
 ## Date & Time
 
