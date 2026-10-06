@@ -23,14 +23,15 @@
 ## Calculators
 
 - [Calculator.net](https://www.calculator.net/) - Large collection of financial, health, math, time, and everyday calculators.
-- [Omni Calculator](https://www.omnicalculator.com/) - Extensive collection of calculators covering science, finance, health, and everyday calculations.
-- [Wolfram Alpha](https://www.wolframalpha.com/) - Computational knowledge engine for mathematics, science, and many other subjects.
 - [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
-- [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator for appliances and devices.
-- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
 - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
-- [WorkroomCalc](https://workroomcalc.co.uk) - Free Roman blind calculator for fabric, lining, rods, rings, and cord estimates.
+- [KopFollowers.se engagement-rate calculator](https://kopfollowers.se/tools/engagement-rate) - Free Swedish-language calculator for likes-plus-comments engagement against followers, reach or views, using manual counts.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
 - [Naratake Food Cost Calculator](https://naratake.com/en/tools/food-cost-calculator) - Free per-portion food cost and menu pricing calculator with target profit margin.
+- [Omni Calculator](https://www.omnicalculator.com/) - Extensive collection of calculators covering science, finance, health, and everyday calculations.
+- [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator for appliances and devices.
+- [Wolfram Alpha](https://www.wolframalpha.com/) - Computational knowledge engine for mathematics, science, and many other subjects.
+- [WorkroomCalc](https://workroomcalc.co.uk) - Free Roman blind calculator for fabric, lining, rods, rings, and cord estimates.
 
 ## Date & Time
 
