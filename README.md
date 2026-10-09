@@ -88,11 +88,12 @@
 ## Image Tools
 
 - [FileOnTap](https://fileontap.com/) - Free browser-based image and PDF converter; processing stays on the device, with no upload or account required.
-- [Nutilz SVG to PNG Converter](https://nutilz.com/svg-to-png) - Convert SVG files to PNG online free, with custom width, background, and scale. No upload, runs entirely in your browser.
 - [FileOnTap HEIC to PNG Converter](https://fileontap.com/heic-to-png/) - Convert HEIC images to PNG for free with no signup or upload; files are processed locally in your browser.
-- [TinyPNG](https://tinypng.com/) - Compress PNG and JPEG images online.
-- [Squoosh](https://squoosh.app/) - Browser-based image compression and optimization tool.
+- [Nutilz SVG to PNG Converter](https://nutilz.com/svg-to-png) - Convert SVG files to PNG online free, with custom width, background, and scale. No upload, runs entirely in your browser.
 - [Remove.bg](https://www.remove.bg/) - Remove backgrounds from images online.
+- [Squoosh](https://squoosh.app/) - Browser-based image compression and optimization tool.
+- [Stunna browser photo tools](https://stunna-app.com/tools) - Free camera-inspired filters, photo booth and strip maker; local processing, no account or watermark.
+- [TinyPNG](https://tinypng.com/) - Compress PNG and JPEG images online.
 
 ## PDF Tools
 
