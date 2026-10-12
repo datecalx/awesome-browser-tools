@@ -78,6 +78,7 @@
 - [NerdWallet Calculators](https://www.nerdwallet.com/calculators) - Financial calculators covering loans, mortgages, investments, and personal finance.
 - [Bankrate Calculators](https://www.bankrate.com/calculators/) - Financial calculators for mortgages, loans, savings, and other financial decisions.
 - [Stock Average Calculator](https://stockavg.com/) - Share cost basis and average price calculator with each step of the arithmetic printed, free and no signup.
+- [Tanzhang Surplus Calculator](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en.html) - Free CNY single-event market-stall calculator for refund-adjusted receipts, sold-item costs, losses, and event expenses; no account required.
 
 ## Health & Fitness
 
