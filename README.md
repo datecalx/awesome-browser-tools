@@ -82,6 +82,7 @@
 ## Health & Fitness
 
 - [Calculator.net Health Calculators](https://www.calculator.net/health-calculator.html) - Health and fitness calculators including BMI, calorie, body fat, and related tools.
+- [Live Fitness Check](livefitnesscheck.com) - Free health and fitness calculators: BMI, BMR, TDEE, calorie, body fat, water intake, heart-rate zones, pregnancy, and more.
 - [Mayo Clinic BMI Calculator](https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/bmi-calculator/itt-20084938) - Calculate body mass index.
 - [TDEE Calculator](https://tdeecalculator.net/) - Estimate total daily energy expenditure and calorie needs.
 
