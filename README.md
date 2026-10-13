@@ -48,6 +48,8 @@
 
 ## Developer Tools
 
+- [BestJSON JSON Diff](https://bestjson.com/json-diff) - Compare JSON structures and inspect added, removed or changed values by path without signing up.
+
 - [JSON Formatter](https://jsonformatter.org/) - Format, validate, and work with JSON data.
 - [DevTools](https://devtools.tech/) - Collection of useful browser-based developer utilities.
 - [NextReset](https://nextreset.ai/) - Free Codex reset-history and official AI-service incident reference with a browser-local personal countdown.
