@@ -23,6 +23,7 @@
 ## Calculators
 
 - [Calculator.net](https://www.calculator.net/) - Large collection of financial, health, math, time, and everyday calculators.
+- [Libre Calculator](https://librecalculator.com/) - Calculator suite with input-specific worked steps, diagrams, and short lessons.
 - [Omni Calculator](https://www.omnicalculator.com/) - Extensive collection of calculators covering science, finance, health, and everyday calculations.
 - [Wolfram Alpha](https://www.wolframalpha.com/) - Computational knowledge engine for mathematics, science, and many other subjects.
 - [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
