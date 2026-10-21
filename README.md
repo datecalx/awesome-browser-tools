@@ -29,6 +29,7 @@
 - [Mini Golf Cost Calculator](https://minigolfspots.com/mini-golf-cost-calculator) - Estimate mini-golf outing costs from entered prices, player counts, fees, tax and deposits.
 - [Naratake Food Cost Calculator](https://naratake.com/en/tools/food-cost-calculator) - Free per-portion food cost and menu pricing calculator with target profit margin.
 - [Omni Calculator](https://www.omnicalculator.com/) - Extensive collection of calculators covering science, finance, health, and everyday calculations.
+- [Outbound Crafting Calculator](https://mygames.wiki/outbound/tools/crafting-calculator) - Combine item quantities into material totals and a crafting order for Outbound, free without an account.
 - [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator for appliances and devices.
 - [Wolfram Alpha](https://www.wolframalpha.com/) - Computational knowledge engine for mathematics, science, and many other subjects.
 - [WorkroomCalc](https://workroomcalc.co.uk) - Free Roman blind calculator for fabric, lining, rods, rings, and cord estimates.
