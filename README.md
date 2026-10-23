@@ -25,6 +25,7 @@
 - [Calculator.net](https://www.calculator.net/) - Large collection of financial, health, math, time, and everyday calculators.
 - [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
 - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
+- [Jev Pricing Calculator](https://jevpricing.com/) - Estimate TypeSafe Jev workload costs, batching savings, context budgets, and throughput from entered quotas with browser-side arithmetic.
 - [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
 - [Mini Golf Cost Calculator](https://minigolfspots.com/mini-golf-cost-calculator) - Estimate mini-golf outing costs from entered prices, player counts, fees, tax and deposits.
 - [Naratake Food Cost Calculator](https://naratake.com/en/tools/food-cost-calculator) - Free per-portion food cost and menu pricing calculator with target profit margin.
