@@ -49,6 +49,7 @@
 
 ## Developer Tools
 
+- [Agent Stopover](https://chapelgate.github.io/agent-stopover-experiment/) - Free public resource hub with browser-based tools, checkpoints and challenges.
 - [JSON Formatter](https://jsonformatter.org/) - Format, validate, and work with JSON data.
 - [DevTools](https://devtools.tech/) - Collection of useful browser-based developer utilities.
 - [NextReset](https://nextreset.ai/) - Free Codex reset-history and official AI-service incident reference with a browser-local personal countdown.
