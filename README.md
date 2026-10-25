@@ -83,6 +83,7 @@
 
 ## Health & Fitness
 
+- [Caffeine Curve](https://artigram.cafeboon.com/p/zuchv7m) - Tap your drinks onto a timeline to see the caffeine left at bedtime and the latest sip time for each drink.
 - [Calculator.net Health Calculators](https://www.calculator.net/health-calculator.html) - Health and fitness calculators including BMI, calorie, body fat, and related tools.
 - [Mayo Clinic BMI Calculator](https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/bmi-calculator/itt-20084938) - Calculate body mass index.
 - [TDEE Calculator](https://tdeecalculator.net/) - Estimate total daily energy expenditure and calorie needs.
