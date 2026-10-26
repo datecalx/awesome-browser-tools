@@ -80,6 +80,7 @@
 - [NerdWallet Calculators](https://www.nerdwallet.com/calculators) - Financial calculators covering loans, mortgages, investments, and personal finance.
 - [Bankrate Calculators](https://www.bankrate.com/calculators/) - Financial calculators for mortgages, loans, savings, and other financial decisions.
 - [Stock Average Calculator](https://stockavg.com/) - Share cost basis and average price calculator with each step of the arithmetic printed, free and no signup.
+- [VA Chapter 30 MGIB Rates 2027 Calculator](https://colacalculator2027.com/va-chapter-30-mgib-rates-2027/) - Free Official FY Montgomery GI Bill Active Duty (Chapter 30) monthly rate calculator for Oct 2026–Sep 2027; runs client-side, no signup.
 
 ## Health & Fitness
 
