@@ -49,6 +49,7 @@
 
 ## Developer Tools
 
+- [GIS Toolbox](https://gis.taoliapp.com/) - Browser GIS toolkit: CRS conversion (incl. GCJ-02/BD-09), Shapefile/GeoJSON/KML; processing stays local.
 - [JSON Formatter](https://jsonformatter.org/) - Format, validate, and work with JSON data.
 - [DevTools](https://devtools.tech/) - Collection of useful browser-based developer utilities.
 - [NextReset](https://nextreset.ai/) - Free Codex reset-history and official AI-service incident reference with a browser-local personal countdown.
