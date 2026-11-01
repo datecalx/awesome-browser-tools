@@ -38,6 +38,7 @@
 - [DateCalx - Date Difference](https://datecalx.com/date-difference) - Calculate the difference between two dates in days, weeks, months, and years.
 - [DateCalx - Age Calculator](https://datecalx.com/age-calculator) - Calculate exact age from a date of birth.
 - [DateCalx - Business Days Calculator](https://datecalx.com/business-days) - Calculate working days between dates with weekend and public holiday options.
+- [Days Until Date Calculator](https://tomaserben.com/free-tools/days-until-date) - Count down the days until any date with holiday quick picks; free, no signup.
 - [Time and Date](https://www.timeanddate.com/) - Date, time zone, calendar, world clock, and time-related tools.
 - [Calculator.net Date Calculator](https://www.calculator.net/date-calculator.html) - Calculate dates, date differences, and related time calculations.
 
