@@ -73,6 +73,7 @@
 - [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview and CSS token export.
 - [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Free tool that converts images into crochet patterns.
 - [kdpbook.io Word Search Maker](https://kdpbook.io/kdp/word-search-maker) - Free printable word search made from your own words, with an answer key and no signup.
+- [Text Match Cut](https://textmatchcut.net/) - Free online text match cut video maker: lock one word and export MP4 or WebM in the browser, no signup.
 
 ## Finance Tools
 
