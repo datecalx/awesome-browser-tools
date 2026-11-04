@@ -1,136 +1,65 @@
-# Awesome Browser Tools
+<!-- Banner -->
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Browser Tools" />
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-6366F1?style=for-the-badge" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-14B8A6?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/100%25-Free%20Tools%20Only-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/286%2B-Tools%20Listed-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Crusty-chirayu/awesome-browser-tools?style=for-the-badge&amp;color=6366F1" />
+</p>
 
-> A curated collection of useful free online tools and calculators that work directly in your web browser.
-
-## Contents
-
-- [Calculators](#calculators)
-- [Date & Time](#date--time)
-- [Converters](#converters)
-- [Developer Tools](#developer-tools)
-- [Text Tools](#text-tools)
-- [Generators](#generators)
-- [Finance Tools](#finance-tools)
-- [Health & Fitness](#health--fitness)
-- [Image Tools](#image-tools)
-- [PDF Tools](#pdf-tools)
-- [Productivity Tools](#productivity-tools)
+<p align="center">
+  A hand-curated, community-maintained list of <strong>free browser extensions and tools</strong> for developers, power users, privacy nerds, students, and everyday people. No paywalled "freemium" traps unless clearly labeled. No affiliate spam.
+</p>
 
 ---
 
-## Calculators
+## 📚 Table of Contents
 
-- [Calculator.net](https://www.calculator.net/) - Large collection of financial, health, math, time, and everyday calculators.
-- [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
-- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
-- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
-- [Mini Golf Cost Calculator](https://minigolfspots.com/mini-golf-cost-calculator) - Estimate mini-golf outing costs from entered prices, player counts, fees, tax and deposits.
-- [Naratake Food Cost Calculator](https://naratake.com/en/tools/food-cost-calculator) - Free per-portion food cost and menu pricing calculator with target profit margin.
-- [Omni Calculator](https://www.omnicalculator.com/) - Extensive collection of calculators covering science, finance, health, and everyday calculations.
-- [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator for appliances and devices.
-- [Wolfram Alpha](https://www.wolframalpha.com/) - Computational knowledge engine for mathematics, science, and many other subjects.
-- [WorkroomCalc](https://workroomcalc.co.uk) - Free Roman blind calculator for fabric, lining, rods, rings, and cord estimates.
-
-## Date & Time
-
-- [DateCalx - Date Difference](https://datecalx.com/date-difference) - Calculate the difference between two dates in days, weeks, months, and years.
-- [DateCalx - Age Calculator](https://datecalx.com/age-calculator) - Calculate exact age from a date of birth.
-- [DateCalx - Business Days Calculator](https://datecalx.com/business-days) - Calculate working days between dates with weekend and public holiday options.
-- [Time and Date](https://www.timeanddate.com/) - Date, time zone, calendar, world clock, and time-related tools.
-- [Calculator.net Date Calculator](https://www.calculator.net/date-calculator.html) - Calculate dates, date differences, and related time calculations.
-
-## Converters
-
-- [Google Unit Converter](https://www.google.com/search?q=unit+converter) - Quick unit conversions directly through Google Search.
-- [ConvertUnits](https://www.convertunits.com/) - Convert units for length, weight, temperature, area, volume, and more.
-- [UnitConverters.net](https://www.unitconverters.net/) - Collection of unit conversion tools covering many measurement categories.
-
-## Developer Tools
-
-- [JSON Formatter](https://jsonformatter.org/) - Format, validate, and work with JSON data.
-- [DevTools](https://devtools.tech/) - Collection of useful browser-based developer utilities.
-- [NextReset](https://nextreset.ai/) - Free Codex reset-history and official AI-service incident reference with a browser-local personal countdown.
-- [Regex101](https://regex101.com/) - Test and debug regular expressions with detailed explanations.
-- [CSV Reconciliation Checker](https://joysky77.github.io/csv-cleanup-services/csv-reconciliation-checker.html) - Compare two CSV files locally by one exact unique key, with no upload, login, ads, or tracking.
-- [CyberChef](https://gchq.github.io/CyberChef/) - Browser-based data analysis, encoding, decoding, and transformation toolkit.
-- [JSONPath Tester](https://alltoolsverse.com/tools/json-path-tester/) - Test JSONPath expressions against JSON and view every matching value in the browser.
-- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free MIT browser freelance tools: invoice, quote, timesheet, intake, late-fee, kickoff email (no signup).
-
-## Text Tools
-
-- [WordCounter](https://wordcounter.net/) - Count words, characters, sentences, and paragraphs.
-- [Character Counter](https://charactercounter.com/) - Count characters, words, sentences, and lines.
-- [Duplicate Word Finder](https://textbases.app/text-tools/duplicate-word-finder/) - Find repeated words in text to help with proofreading and revision.
-- [Diffchecker](https://www.diffchecker.com/) - Compare text and identify differences between documents.
-
-## Generators
-
-- [Random.org](https://www.random.org/) - Random number and randomization tools.
-- [QR Code Generator](https://www.qr-code-generator.com/) - Create QR codes for URLs, text, and other information.
-- [1Password Password Generator](https://1password.com/password-generator/) - Generate secure random passwords.
-- [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview and CSS token export.
-- [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Free tool that converts images into crochet patterns.
-- [kdpbook.io Word Search Maker](https://kdpbook.io/kdp/word-search-maker) - Free printable word search made from your own words, with an answer key and no signup.
-
-## Finance Tools
-
-- [Investor.gov Calculators](https://www.investor.gov/financial-tools-calculators) - Financial calculators and investing tools from the U.S. Securities and Exchange Commission.
-- [NerdWallet Calculators](https://www.nerdwallet.com/calculators) - Financial calculators covering loans, mortgages, investments, and personal finance.
-- [Bankrate Calculators](https://www.bankrate.com/calculators/) - Financial calculators for mortgages, loans, savings, and other financial decisions.
-- [Stock Average Calculator](https://stockavg.com/) - Share cost basis and average price calculator with each step of the arithmetic printed, free and no signup.
-
-## Health & Fitness
-
-- [Calculator.net Health Calculators](https://www.calculator.net/health-calculator.html) - Health and fitness calculators including BMI, calorie, body fat, and related tools.
-- [Mayo Clinic BMI Calculator](https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/bmi-calculator/itt-20084938) - Calculate body mass index.
-- [TDEE Calculator](https://tdeecalculator.net/) - Estimate total daily energy expenditure and calorie needs.
-
-## Image Tools
-
-- [FileOnTap](https://fileontap.com/) - Free browser-based image and PDF converter; processing stays on the device, with no upload or account required.
-- [Image to ASCII](https://imagetoascii.art/) - Convert images into ASCII character art locally in your browser and export TXT, PNG or SVG; free, with no signup.
-- [Nutilz SVG to PNG Converter](https://nutilz.com/svg-to-png) - Convert SVG files to PNG online free, with custom width, background, and scale. No upload, runs entirely in your browser.
-- [FileOnTap HEIC to PNG Converter](https://fileontap.com/heic-to-png/) - Convert HEIC images to PNG for free with no signup or upload; files are processed locally in your browser.
-- [TinyPNG](https://tinypng.com/) - Compress PNG and JPEG images online.
-- [Squoosh](https://squoosh.app/) - Browser-based image compression and optimization tool.
-- [Remove.bg](https://www.remove.bg/) - Remove backgrounds from images online.
-- [Quick Image Kit](https://quickimagekit.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_browser_tools) - Free browser-local image compressor with exact file-size targets, plus resize, convert, crop and favicon tools; no upload or account required.
-
-## PDF Tools
-
-- [Adobe Acrobat Online](https://www.adobe.com/acrobat/online.html) - Browser-based PDF tools for common document tasks.
-- [iLovePDF](https://www.ilovepdf.com/) - Online tools for merging, splitting, compressing, and converting PDFs.
-- [Smallpdf](https://smallpdf.com/) - Collection of browser-based PDF tools and converters.
-
-## Productivity Tools
-
-- [Notion](https://www.notion.so/) - Workspace for notes, documents, databases, and project organization.
-- [Trello](https://trello.com/) - Visual task and project management boards.
-- [Google Keep](https://keep.google.com/) - Simple browser-based notes and lists.
-- [SkyCOTL Tools](https://skycotl.tools) - Free guides and calculators for Sky: Children of the Light.
-- [Pressure Washer Fix](https://pressurewasherfix.com) - Free troubleshooting guides for common pressure washer problems.
+- [🧩 Productivity](categories/productivity.md)
+- [🔒 Privacy & Security](categories/privacy-security.md)
+- [👨‍💻 Developer Tools](categories/developer-tools.md)
+- [🤖 AI Tools](categories/ai-tools.md)
+- [🎨 Design & Color](categories/design-color.md)
+- [📈 SEO & Marketing](categories/seo-marketing.md)
+- [🛍️ Shopping & Deals](categories/shopping-deals.md)
+- [♿ Accessibility](categories/accessibility.md)
+- [📱 Social Media](categories/social-media.md)
+- [🗂️ Misc / Everything Else](categories/misc.md)
+- [🆕 Addition List 1](categories/addition-list-1.md)
 
 ---
 
-## Contributing
+## ✅ Ground Rules for What Gets Listed
 
-Contributions are welcome!
+- **Free.** Fully free, or has a genuinely usable free tier (must be labeled).
+- **No malware / no shady data harvesting.** We don't list extensions with a history of selling user data.
+- **No affiliate links.** Ever. This list stays trustworthy.
+- **One-line description minimum.** So people know what they're clicking before they click.
+- **Platform tagged.** Chrome, Firefox, Edge, Brave, Safari — say which.
+- [ScanChess](https://scanchess.com) - Free browser chess OCR: turn a board photo or screenshot into editable FEN, or a handwritten scoresheet into PGN.
 
-Before submitting a tool, please make sure:
+## ✍️ Entry Format
 
-- The tool is publicly accessible.
-- The tool provides useful functionality.
-- The tool has a free option.
-- The URL points directly to the tool or service.
-- The description is short and accurate.
-- There is no affiliate or promotional tracking link.
-- The tool is not already listed.
-
-### Adding a Tool
-
-Add your entry to the most relevant category using this format:
+Every entry across every category file follows this format:
 
 ```markdown
-- [Tool Name](https://example.com/) - Short, accurate description of what the tool does.
+### [Tool Name](https://link-to-tool.com)
+**Category:** Productivity · **Platforms:** Chrome, Firefox  
+One-line description of what it does and why it's useful.
+```
+
+## 🤝 Contributing
+
+Found a great free tool that's missing? See [CONTRIBUTING.md](CONTRIBUTING.md) — it takes about 60 seconds to submit via PR or issue.
+
+## 📜 License
+
+[MIT](LICENSE) — this list is free to fork, reuse, and remix.
+
+<p align="center">
+  <img src="assets/footer.svg" alt="" />
+</p>
