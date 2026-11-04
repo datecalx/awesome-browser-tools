@@ -134,3 +134,4 @@ Add your entry to the most relevant category using this format:
 
 ```markdown
 - [Tool Name](https://example.com/) - Short, accurate description of what the tool does.
+- [ScanChess](https://scanchess.com) - Free browser chess OCR: turn a board photo or screenshot into editable FEN, or a handwritten scoresheet into PGN.
