@@ -51,6 +51,7 @@
 
 - [JSON Formatter](https://jsonformatter.org/) - Format, validate, and work with JSON data.
 - [DevTools](https://devtools.tech/) - Collection of useful browser-based developer utilities.
+- [Jvlang AI Codex Usage Tracker](https://jvlangai.com/codex-reset) - Compare manually confirmed Codex usage with the weekly time window, with a countdown and calendar export.
 - [NextReset](https://nextreset.ai/) - Free Codex reset-history and official AI-service incident reference with a browser-local personal countdown.
 - [Regex101](https://regex101.com/) - Test and debug regular expressions with detailed explanations.
 - [CSV Reconciliation Checker](https://joysky77.github.io/csv-cleanup-services/csv-reconciliation-checker.html) - Compare two CSV files locally by one exact unique key, with no upload, login, ads, or tracking.
