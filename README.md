@@ -96,6 +96,7 @@
 - [TinyPNG](https://tinypng.com/) - Compress PNG and JPEG images online.
 - [Squoosh](https://squoosh.app/) - Browser-based image compression and optimization tool.
 - [Remove.bg](https://www.remove.bg/) - Remove backgrounds from images online.
+- [TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover) - Remove image backgrounds free with no upload or signup; processing stays in your browser, transparent PNG download.
 - [Quick Image Kit](https://quickimagekit.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_browser_tools) - Free browser-local image compressor with exact file-size targets, plus resize, convert, crop and favicon tools; no upload or account required.
 
 ## PDF Tools
