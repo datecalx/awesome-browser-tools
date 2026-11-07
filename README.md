@@ -67,12 +67,13 @@
 
 ## Generators
 
-- [Random.org](https://www.random.org/) - Random number and randomization tools.
-- [QR Code Generator](https://www.qr-code-generator.com/) - Create QR codes for URLs, text, and other information.
 - [1Password Password Generator](https://1password.com/password-generator/) - Generate secure random passwords.
 - [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview and CSS token export.
 - [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Free tool that converts images into crochet patterns.
 - [kdpbook.io Word Search Maker](https://kdpbook.io/kdp/word-search-maker) - Free printable word search made from your own words, with an answer key and no signup.
+- [QR Code Generator](https://www.qr-code-generator.com/) - Create QR codes for URLs, text, and other information.
+- [RandomGeneratr NPC Generator](https://randomgeneratr.com/npc-generator) - Generate fictional NPC names, motives, flaws, and story hooks; free generation and copying without an account.
+- [Random.org](https://www.random.org/) - Random number and randomization tools.
 
 ## Finance Tools
 
