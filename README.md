@@ -22,6 +22,7 @@
 
 ## Calculators
 
+- [Calculation Hub](https://calculation-hub.com/) - Searchable collection of free calculators with formulas and assumptions, available without login.
 - [Calculator.net](https://www.calculator.net/) - Large collection of financial, health, math, time, and everyday calculators.
 - [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
 - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
