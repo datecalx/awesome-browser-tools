@@ -71,6 +71,7 @@
 - [QR Code Generator](https://www.qr-code-generator.com/) - Create QR codes for URLs, text, and other information.
 - [1Password Password Generator](https://1password.com/password-generator/) - Generate secure random passwords.
 - [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview and CSS token export.
+- [Cursive Generation](https://cursive-generation.com/cursive-generator) - Free browser tool for previewing text in cursive fonts; copying retains plain text.
 - [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Free tool that converts images into crochet patterns.
 - [kdpbook.io Word Search Maker](https://kdpbook.io/kdp/word-search-maker) - Free printable word search made from your own words, with an answer key and no signup.
 
