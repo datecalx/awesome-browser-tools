@@ -22,6 +22,7 @@
 
 ## Calculators
 
+- [Bike Size Calculator](https://bike-size.com/calculators/bike-size) - Free starting frame-size estimates from height and inseam for road, mountain and hybrid bikes.
 - [Calculator.net](https://www.calculator.net/) - Large collection of financial, health, math, time, and everyday calculators.
 - [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
 - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
