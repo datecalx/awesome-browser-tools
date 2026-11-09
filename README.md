@@ -22,6 +22,7 @@
 
 ## Calculators
 
+- [Azeroth Survivors Build Calculator](https://azerothsurvivors.app/build-calculator/) - Plan talents, skills, and equipment for Azeroth Survivors, save locally, share editable links, and export PNGs without an account.
 - [Calculator.net](https://www.calculator.net/) - Large collection of financial, health, math, time, and everyday calculators.
 - [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
 - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
