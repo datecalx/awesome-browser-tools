@@ -73,6 +73,7 @@
 - [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview and CSS token export.
 - [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Free tool that converts images into crochet patterns.
 - [kdpbook.io Word Search Maker](https://kdpbook.io/kdp/word-search-maker) - Free printable word search made from your own words, with an answer key and no signup.
+- [priv QR](https://privqr.com/) - Free browser-based QR and barcode toolkit for static codes, Matter setup codes, bulk CSV export, and QR or barcode to STL, with no signup.
 
 ## Finance Tools
 
