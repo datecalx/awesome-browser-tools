@@ -101,6 +101,7 @@
 ## PDF Tools
 
 - [Adobe Acrobat Online](https://www.adobe.com/acrobat/online.html) - Browser-based PDF tools for common document tasks.
+- [Free PDF Converter](https://free-pdf-converter.web-free.site/) - Browser-based PDF toolkit (merge, split, compress, convert and related tools); processing runs locally in the browser.
 - [iLovePDF](https://www.ilovepdf.com/) - Online tools for merging, splitting, compressing, and converting PDFs.
 - [Smallpdf](https://smallpdf.com/) - Collection of browser-based PDF tools and converters.
 
