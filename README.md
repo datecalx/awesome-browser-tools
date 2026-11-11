@@ -67,6 +67,7 @@
 
 ## Generators
 
+- [Free QR Code Creator](https://free-qr-code-creator.web-free.site/) - Creates styled QR codes and barcodes and can scan codes in the browser with no sign-up.
 - [Random.org](https://www.random.org/) - Random number and randomization tools.
 - [QR Code Generator](https://www.qr-code-generator.com/) - Create QR codes for URLs, text, and other information.
 - [1Password Password Generator](https://1password.com/password-generator/) - Generate secure random passwords.
