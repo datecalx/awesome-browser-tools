@@ -60,6 +60,7 @@
 
 ## Text Tools
 
+- [Free Word Counter](https://free-word-counter.web-free.site/) - Counts words, characters, sentences, paragraphs, reading time and keyword density in the browser; text is not uploaded.
 - [WordCounter](https://wordcounter.net/) - Count words, characters, sentences, and paragraphs.
 - [Character Counter](https://charactercounter.com/) - Count characters, words, sentences, and lines.
 - [Duplicate Word Finder](https://textbases.app/text-tools/duplicate-word-finder/) - Find repeated words in text to help with proofreading and revision.
