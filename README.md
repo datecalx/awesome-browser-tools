@@ -103,6 +103,7 @@
 - [Adobe Acrobat Online](https://www.adobe.com/acrobat/online.html) - Browser-based PDF tools for common document tasks.
 - [iLovePDF](https://www.ilovepdf.com/) - Online tools for merging, splitting, compressing, and converting PDFs.
 - [Smallpdf](https://smallpdf.com/) - Collection of browser-based PDF tools and converters.
+- - [zippic](https://zippic.app/pdf-merger) - Free browser-based PDF merger; combine multiple PDFs into one file locally, no upload, no signup.
 
 ## Productivity Tools
 
