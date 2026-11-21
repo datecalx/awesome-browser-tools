@@ -102,6 +102,7 @@
 
 - [Adobe Acrobat Online](https://www.adobe.com/acrobat/online.html) - Browser-based PDF tools for common document tasks.
 - [iLovePDF](https://www.ilovepdf.com/) - Online tools for merging, splitting, compressing, and converting PDFs.
+- [PDF Fan — Inserir páginas em PDF](https://pdf.fan/pt-br/inserir-paginas-pdf/) - Free Brazilian Portuguese tool for inserting selected pages from another PDF or adding blank pages to an existing document.
 - [Smallpdf](https://smallpdf.com/) - Collection of browser-based PDF tools and converters.
 
 ## Productivity Tools
