@@ -22,10 +22,12 @@
 
 ## Calculators
 
-- [Calculator.net](https://www.calculator.net/) - Large collection of financial, health, math, time, and everyday calculators.
+- [Calculadora de Horas](https://calculadora-de-horas.app/) - Free Brazilian labor calculators: overtime, night shift premium, severance, FGTS, vacation, 13th salary and more, in Portuguese, no signup.
+-  [Calculator.net](https://www.calculator.net/) - Large collection of financial, health, math, time, and everyday calculators.
 - [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
 - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
 - [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
+
 - [Mini Golf Cost Calculator](https://minigolfspots.com/mini-golf-cost-calculator) - Estimate mini-golf outing costs from entered prices, player counts, fees, tax and deposits.
 - [Naratake Food Cost Calculator](https://naratake.com/en/tools/food-cost-calculator) - Free per-portion food cost and menu pricing calculator with target profit margin.
 - [Omni Calculator](https://www.omnicalculator.com/) - Extensive collection of calculators covering science, finance, health, and everyday calculations.
