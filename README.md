@@ -76,6 +76,7 @@
 - [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview and CSS token export.
 - [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Free tool that converts images into crochet patterns.
 - [kdpbook.io Word Search Maker](https://kdpbook.io/kdp/word-search-maker) - Free printable word search made from your own words, with an answer key and no signup.
+- [Lithophane Maker](https://mint.gg/lithophane-maker) - Free tool that turns a photo into a flat or curved 3D-printable lithophane, with STL and 3MF download and no signup.
 - [StitchXCross](https://stitchxcross.com/) - Free cross stitch pattern maker that turns a photo into a DMC floss chart or lets you draw one, with unwatermarked PDF export and no signup.
 
 ## Finance Tools
