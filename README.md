@@ -111,6 +111,7 @@
 - [Google Keep](https://keep.google.com/) - Simple browser-based notes and lists.
 - [SkyCOTL Tools](https://skycotl.tools) - Free guides and calculators for Sky: Children of the Light.
 - [Pressure Washer Fix](https://pressurewasherfix.com) - Free troubleshooting guides for common pressure washer problems.
+- [StagePeek](https://stagepeek.live/) - Interactive 2D seating charts and 3D concert stage-view simulator across 201 global venues with 1x-10x zoom, free without login.
 
 ---
 
