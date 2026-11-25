@@ -40,6 +40,7 @@
 - [DateCalx - Business Days Calculator](https://datecalx.com/business-days) - Calculate working days between dates with weekend and public holiday options.
 - [Time and Date](https://www.timeanddate.com/) - Date, time zone, calendar, world clock, and time-related tools.
 - [Calculator.net Date Calculator](https://www.calculator.net/date-calculator.html) - Calculate dates, date differences, and related time calculations.
+- [Chinese Calendar Explorer](https://chinesefortunetools.com/chinese-calendar/) - Look up the Chinese lunar date and solar term for a Gregorian date.
 
 ## Converters
 
