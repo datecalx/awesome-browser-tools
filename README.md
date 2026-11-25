@@ -23,6 +23,7 @@
 ## Calculators
 
 - [Calculator.net](https://www.calculator.net/) - Large collection of financial, health, math, time, and everyday calculators.
+- [Concrete Calculator](https://concretecalculator.org/) - Free concrete volume, weight, and bag estimator for slabs, columns, tubes, curbs, and stairs, with PDF report export.
 - [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
 - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
 - [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
