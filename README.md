@@ -104,6 +104,7 @@
 - [Squoosh](https://squoosh.app/) - Browser-based image compression and optimization tool.
 - [Remove.bg](https://www.remove.bg/) - Remove backgrounds from images online.
 - [Quick Image Kit](https://quickimagekit.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_browser_tools) - Free browser-local image compressor with exact file-size targets, plus resize, convert, crop and favicon tools; no upload or account required.
+- [TinyTools Background Blur](https://tomaserben.com/free-tools/background-blur) - Blur photo backgrounds free in your browser with no signup; photos never upload.
 
 ## PDF Tools
 
