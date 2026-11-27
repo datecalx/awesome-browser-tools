@@ -26,6 +26,7 @@
 - [Concrete Calculator](https://concretecalculator.org/) - Free concrete volume, weight, and bag estimator for slabs, columns, tubes, curbs, and stairs, with PDF report export.
 - [DateCalx](https://datecalx.com/) - Free online calculators for dates, age, business days, countdowns, calendars, and time.
 - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
+- [Genaya Pressure Washing Price Calculator](https://www.genaya.com/tools/pressure-washing-price-calculator) - Free, no sign-up calculator that prices siding, driveway, deck and fence washing by the square foot, with a minimum charge and travel fee.
 - [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
 - [Mini Golf Cost Calculator](https://minigolfspots.com/mini-golf-cost-calculator) - Estimate mini-golf outing costs from entered prices, player counts, fees, tax and deposits.
 - [Naratake Food Cost Calculator](https://naratake.com/en/tools/food-cost-calculator) - Free per-portion food cost and menu pricing calculator with target profit margin.
