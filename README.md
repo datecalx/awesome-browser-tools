@@ -99,6 +99,7 @@
 - [Image to ASCII](https://imagetoascii.art/) - Convert images into ASCII character art locally in your browser and export TXT, PNG or SVG; free, with no signup.
 - [Nutilz SVG to PNG Converter](https://nutilz.com/svg-to-png) - Convert SVG files to PNG online free, with custom width, background, and scale. No upload, runs entirely in your browser.
 - [FileOnTap HEIC to PNG Converter](https://fileontap.com/heic-to-png/) - Convert HEIC images to PNG for free with no signup or upload; files are processed locally in your browser.
+- [Offline GIF Editor](https://offlinegifeditor.com/) - 100% client-side browser GIF studio for cropping, Discord/Slack size compression, flood-fill background removal, merging, and WebP/APNG/MP4 conversion with zero uploads.
 - [PixelArtHive](https://pixelarthive.com/) - Convert images to pixel art and upscale existing pixel art locally in the browser, for free and without signup.
 - [TinyPNG](https://tinypng.com/) - Compress PNG and JPEG images online.
 - [Squoosh](https://squoosh.app/) - Browser-based image compression and optimization tool.
